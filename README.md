@@ -1,2 +1,4 @@
 # DL_1_NeuralNetworks
-Deep Learning Specialization from deep learning.ai
+List of notebooks from the course "Neural Networks and Deep Learning" 
+
+First Course of Deep Learning Specialization from deeplearning.ai in Coursera

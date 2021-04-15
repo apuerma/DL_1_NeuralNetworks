@@ -1,4 +1,4 @@
-# DeepLearningSpecialization
+# Deep Learning Specialization
 
 In this repo I have uploaded my solutions for the assignments of the *Deep Learning Specialization* from *deeplearning.ai*
 
